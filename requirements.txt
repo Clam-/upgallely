@@ -1,0 +1,10 @@
+sqlalchemy
+gino
+gino-starlette
+aiofiles
+jinja2
+starlette
+uvicorn
+python-multipart
+itsdangerous
+alembic
